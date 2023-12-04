@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BeauEye</string>
+
+    <string name="main_button_gallery">From Gallery</string>
+    <string name="main_button_photo">Take a Photo</string>
+    <string name="editor_button_gap">Gap</string>
+    <string name="editor_button_thickness">Thickness</string>
+    <string name="editor_button_color">Color</string>
+
+    <string name="editor_button_save">Save</string>
+    <string name="editor_button_original">Original</string>
+
+</resources>

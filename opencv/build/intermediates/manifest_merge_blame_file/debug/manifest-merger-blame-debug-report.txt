@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv"
+4    android:versionCode="34110"
+5    android:versionName="3.4.11" >
+6
+7    <uses-sdk android:minSdkVersion="14" />
+7-->/Users/ksnsamanwith/Desktop/Android/opencv/java/AndroidManifest.xml:7:5-73
+7-->/Users/ksnsamanwith/Desktop/Android/opencv/java/AndroidManifest.xml:7:15-40
+8
+9</manifest>

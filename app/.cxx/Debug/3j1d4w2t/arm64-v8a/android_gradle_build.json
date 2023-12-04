@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/ksnsamanwith/Desktop/Android/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ksnsamanwith/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/ksnsamanwith/Desktop/Android/app/.cxx/Debug/3j1d4w2t/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ksnsamanwith/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/ksnsamanwith/Desktop/Android/app/.cxx/Debug/3j1d4w2t/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolosegment-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/ksnsamanwith/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/ksnsamanwith/Desktop/Android/app/.cxx/Debug/3j1d4w2t/arm64-v8a",
+        "yolosegment"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "yolosegment",
+      "output": "/Users/ksnsamanwith/Desktop/Android/app/build/intermediates/cxx/Debug/3j1d4w2t/obj/arm64-v8a/libyolosegment.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

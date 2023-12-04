@@ -1,0 +1,1 @@
+/Users/ksnsamanwith/Desktop/Android/app/src/main/jni/CMakeLists.txt
