@@ -53,5 +53,4 @@ The app employs sophisticated computer vision algorithms leveraging the OpenCV l
    - Use the preview mode to compare multiple lens options simultaneously.
    - Select your favorite and share the results with friends.
 
-
 Enjoy trying on virtual lenses with SpectraView!
