@@ -34,7 +34,7 @@ The app employs sophisticated computer vision algorithms leveraging the OpenCV l
 
 ### Installation
 
-1. Download the Spectraview APK file from the [release page](#release-page).
+1. Download the Spectraview APK file from the [release page](https://drive.google.com/file/d/1vT1gxC49oAOvQtNX3dE0hsPW81bS3vkQ/view?usp=sharing).
 2. Enable installation from unknown sources in your device settings.
 3. Install the APK on your Android device.
 4. Open the app and grant necessary permissions.
